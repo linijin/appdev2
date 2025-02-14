@@ -1,0 +1,33 @@
+Assignment #1: Expectations for this Semester
+Objective:
+This assignment helps you reflect on your goals for this backend development course. By understanding your expectations, I can better tailor the course to meet your needs.
+
+Instructions:
+Introduction (100-150 words)
+Tell me a little about yourself. What programming languages or technologies do you know? Do you have any experience with backend development or Node.js?
+My name is Lenie Jane Tinagsa, a BSIS 3 student at La Verdad Christian College. The programming languages I know as of now are Python, Java, JavaScript, and SQL. While I have a basic understanding of these languages, I have not yet fully mastered them because I only obtained a personal device in my second year. Despite this, I made an effort to manage the classes by asking my peers for assistance and using their laptops which made my college experience bearable. 
+When it comes to experience with backend development or Node.js, yes, I have experienced it in our last semester. Understanding backend development is critical to learning how web applications function behind the scenes. We used Node.js to run JavaScript, including React.js, on servers instead of browsers. Node.js plays an important role in handling tasks like user authentication, improving security, and fetching data requested by the frontend.
+Course Expectations (200-300 words)
+What do you want to achieve in this course?
+What specific skills do you hope to learn (e.g., building APIs, using Node.js and Express)?
+How do you think backend development will help you in your career or studies?
+In this course, I aim to enhance my knowledge of backend development and build on the experience I gained last semester. Specifically, I want to gain proficiency in server-side technologies like Express.js, manage databases with MongoDB, and apply best practices for securing sensitive user data while handling frontend requests. Additionally, I seek to strengthen my understanding of web frameworks, particularly Express.js for Node.js, to effectively build APIs and manage server-side functionalities.
+Another important goal is to improve my version control skills using GitHub. Mastering Git and GitHub will enable me to manage code changes efficiently and collaborate more effectively on team projects. I also want to deepen my understanding of API design and development, particularly in creating and managing RESTful APIs. This includes learning about HTTP methods, status codes, and the fundamentals of web communication.
+Furthermore, I aim to improve my database management skills by learning how to efficiently handle and store user data. Focusing on MongoDB will help me understand how this type of database ensures data integrity, scalability, and proper structure for future development challenges.
+Developing strong backend skills will benefit me as a student by allowing me to design and implement efficient web application, system development, and capstone projects. From a career perspective, backend development is a highly in-demand skill which opens up opportunities for roles such as backend developer, full-stack developer, or software engineer.
+
+Challenges and Areas for Improvement (150-200 words)
+Are there any topics that you find difficult or want to improve on (e.g., working with databases, building APIs, error handling)?
+How do you plan to overcome these challenges during the course?
+For the upcoming lessons, one of my main challenges is working with databases. Although I have basic knowledge from my first year, specifically in SQL, I am not highly proficient. Since we will be using MongoDB, it will be a challenge to relearn database concepts and ensure a smooth understanding of the lessons. I aim to deepen my knowledge of databases and understand the differences between SQL and MongoDB, including which is more efficient for scaling data.
+Another challenge is learning Express.js, a framework for Node.js that is crucial for creating secure and powerful web applications. It’s essential for building APIs that facilitate communication and data retrieval from databases. Since it is a new topic and I am still developing my coding skills, I anticipate some difficulty. However, I am excited to learn.
+To address these challenges, I plan to study in advance, watch video tutorials, and collaborate with classmates to enhance my understanding, especially in troubleshooting and handling errors.
+Expectations from the Instructor (100-150 words)
+What do you expect from me as your instructor to help you succeed in this course?
+Are there any resources, teaching methods, or tools that would help you learn better (e.g., coding examples, tutorials, additional resources)?
+I expect the instructor to help me succeed in this course by continuing the current teaching methods, which I find effective. The instructor already provides sufficient resources, tools, and teaching strategies that support my learning. It’s up to me to put in extra effort to keep up with the lessons. However, since I am not a fast learner compared to others, I would appreciate it if the lessons, especially coding exercises, could be explained at a slower pace during face-to-face discussions. This would allow students like me to follow along and practice encoding the code on our laptops in real-time.
+Overall, I am confident that with the instructor’s continued guidance and some adjustments to the pace, I can enhance my understanding and performance in this course.
+
+Final Thoughts (Optional, 50-100 words)
+Anything else you'd like to add about your goals for the course or how you want to learn?
+I’d like to add that my goal in learning this course is to take everything positively. Even if there are errors, I won’t give up on finding solutions. I aim to stay optimistic because I believe that if you approach things positively and set your mind that way, learning will follow.
