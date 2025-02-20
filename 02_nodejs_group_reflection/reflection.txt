@@ -1,0 +1,26 @@
+Your Role:
+Reflect on the role you were assigned in your group (Project Manager, Software Quality Assurance, UI/UX Designer, or Developer). Write about how you contributed to the project, what challenges you faced in this role, and what you learned.
+As one of the group's UI/UX designers, I helped build our system. Designing is not as simple as I thought it would be. You need to think about a lot of factors, including design concepts, user experience, conventional website design, and how to use Figma effectively. It was difficult for me because I was not very familiar with the design concepts or how to use Figma. In order to have additional ideas or preferences for systems, I discovered how necessary it is to conduct extensive research and the necessity of watching Figma video tutorials. because there are numerous navigation options and methods for creating designs on it that are simple. 
+
+Teamwork Experience:
+Share your experience working as part of a team. What went well? What could be improved? Reflect on how well the team communicated, delegated tasks, and collaborated to achieve the project goals.
+
+With God's assistance, I believe our group performed well, and it showed in our most recent presentation. However, those things didn't just happen; the group also faces other challenges, like difficulty coming up with group systems or subjects. After interviewing three potential clients, we learned that the system we were interested in was not selected and approved due to its complexity, the sensitive nature of the data, and other sensitive considerations. The way the flow would continue was another challenge, but still we go on.
+
+When a member is unsure whether to continue due to group absences, the PM thinks this is important for the group's success and takes care of it as soon as feasible. This affects all members to continue being proactive in meeting agendas.
+
+It's also a period when PM and Dev assist UI/UX with design and suggestions because some UI/UX are not very familiar with Figma and design principles. They provide a big hand, yet even if it is not their duty, it helps the group flow. 
+
+One of our members once criticized me, and I didn't take it well because I thought their speech was excessive, and my classmate called it nitpicking. I take it personally, even though I know that he or she means well for us to get well. However, the way they say it makes me feel negatively. I nevertheless tried to understand his or her argument and did my part.
+
+Our team holds daily scrum meetings to assess communication. Here, we highlight what still needs to be done and provide an update on the tasks that have been completed. As I mentioned previously, the task delegations are fine, however occasionally they overlap. These issues were just in the early stages, but they were resolved with time, such as defining your job and responsibilities so that others can properly complete their tasks.
+
+
+Although a lot has happened, everything has worked out for the good of all. Every team member is respectful and obedient to the PM and other team members. Since each function is not particularly simple, you must learn more about each of their obligations and make an effort to fit in.
+
+
+Personal Growth and Discipline:
+Think about the disciplines you want to improve. For example:
+
+As a UI/UX Designer,
+I wish to get more proficient with Figma. I'm going to explore and watch more videos that show me how to utilize the app efficiently. Upon witnessing our seniors' defense, I was struck by how well-designed and consistent their figma are. Learning animation and figma prototyping was another of my objectives now. I'll make an effort to inquire with a few of my seniors about their availability to teach Figma. Although it wasn't about my skills, I do intend to get better by accepting all criticism in a positive way.
